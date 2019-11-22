@@ -1,0 +1,239 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+p {
+  font-family: "Montserrat";
+  font-size: 1.2em;
+  font-weight: lighter;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: "Montserrat";
+  margin-top: 5%;
+  font-size: 3rem;
+  letter-spacing: 0.1rem;
+}
+
+/* header style */
+#title {
+  background-image: url("../img/slide3.jpg");
+  height: auto;
+  width: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+#title.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.learnmore-button {
+  padding: 2% auto;
+  margin-top: 1%;
+}
+
+.nav-brand {
+  margin: auto 5%;
+}
+
+.nav-margin {
+  margin-right: 20px;
+  padding: 5px;
+}
+
+.navbar {
+  border-bottom: 4px solid;
+  border-color: #ee3438;
+}
+
+.container-fluid {
+  padding: 10% 15%;
+  color: #fff;
+}
+
+/* who we are */
+#who-we-are{
+  padding: 3% 15% 7% 15%;
+}
+
+.who-we-are{
+  text-align: justify;
+  padding-top: 0;
+}
+ .who-we-arehead{
+   margin: 10% auto 0 auto;
+ }
+.who-we-arehead h2{
+  font-weight: bold;
+}
+
+/* press */
+#press {
+  background-color: #fff;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 50px 20px 30px;
+}
+
+/* feature style */
+#feature {
+  padding: 3% 15% 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 1%;
+}
+
+.imageicon {
+  width: 20%;
+  padding-bottom: 5%;
+}
+
+/* section */
+.colored-section {
+  background-color: #ee3438;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* work flow style */
+#work-flow {
+  padding: 9% auto 0 auto;
+}
+
+.workflow {
+  margin: 7% auto 0 auto;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+/* resource style */
+#resource {
+  padding: 2% 20%;
+}
+
+.partnership {
+  padding: 2%;
+}
+
+.resource-box {
+  text-align: right;
+  padding: 1%;
+  color: #fff;
+}
+
+.resource-img {
+  width: 90%;
+  text-align: center;
+  border: solid #da050a 12px;
+  border-radius: 10%;
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+}
+
+/* work style */
+#work {
+  padding: 3% 20% 7% 20%;
+  text-align: justify;
+  width: auto;
+}
+
+#work h3 {
+  color: #ee3438;
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.human-resource {
+  padding-right: 5%;
+  border-right: 2px dotted;
+  border-color: #d0cbcb;
+  border-radius: 3%;
+}
+
+.how-we-work {
+  padding-left: 5%;
+  border-left: 2px outset;
+  border-color: #d0cbcb;
+  border-radius: 3%;
+}
+
+/* Testimonial Section */
+#testimonials {
+  background-color: #ee3438;
+}
+
+.testimonial-text {
+  font-size: 2.0rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 12%;
+  border-radius: 100%;
+  border: 5px solid #f78181;
+  margin: 20px;
+}
+
+/* team members */
+#team-members {
+  font-family: "Montserrat";
+  padding: 7% 15%;
+}
+
+.team-members h3 {
+  font-family: "Montserrat";
+  margin-bottom: 5%;
+  font-size: 2.5rem;
+}
+
+.breaker {
+  border: dotted #fe7e7e 8px;
+  border-bottom: none;
+  width: 8%;
+  margin: 2px auto;
+}
+
+.team-name {
+  margin-top: 6%;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+
+.director {
+  border-radius: 20%;
+  width: 80%;
+  border: solid #fe7e7e  5px;
+  border-right: none;
+  border-left: none;
+}
+
+/* footer */
+#main-footer {
+  padding: 1% 15%;
+}
+
+.footer {
+  color: #fff;
+}
